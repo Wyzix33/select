@@ -1,0 +1,15 @@
+{
+ "name": "select",
+ "version": "1.0.0",
+ "main": "select.js",
+ "author": "Floricel Gabriel-Costin",
+ "license": "No License",
+ "private": true,
+ "dependencies": {
+  "event": "Wyzix33/event",
+  "socket": "link:../socket",
+  "table": "link:../table",
+  "tooltip": "Wyzix33/tooltip",
+  "utils": "Wyzix33/utils"
+ }
+}
